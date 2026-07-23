@@ -1,0 +1,106 @@
+# ============================================================
+#  .gitignore - projeto Python / Flask
+# ============================================================
+
+# ---------- Segredos (NUNCA versionar) ----------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets.json
+config_local.py
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib60/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ---------- Ambientes virtuais ----------
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# ---------- Testes / cobertura ----------
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.mypy_cache/
+.ruff_cache/
+
+# ---------- IDEs / editores ----------
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+
+# ---------- Sistema operacional ----------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# ---------- Logs ----------
+*.log
+logs/
+srv.log
+app.log
+
+# ---------- Arquivos temporarios do Office ----------
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# ---------- Backups / duplicatas ----------
+*.bak
+*.bkp
+*_bkp.*
+*.orig
+*.old
+* - Copia.*
+* - Copy.*
+*.antes-*
+
+# ---------- Build / distribuicao ----------
+output/
+target/
+bin/
+obj/
+node_modules/
+
+# ---------- Bases de dados locais (contem dados de pacientes/pessoais) ----------
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# ---------- Dados gerados em runtime (SIGTAP) ----------
+data/
+*.zip

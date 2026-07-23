@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "autoPort": true,
+  "configurations": [
+    {
+      "name": "sigtap",
+      "runtimeExecutable": "py",
+      "runtimeArgs": ["run.py"],
+      "port": 5000
+    }
+  ]
+}
