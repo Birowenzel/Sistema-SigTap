@@ -206,28 +206,7 @@ http://ftp2.datasus.gov.br/public/sistemas/tup/downloads/TabelasUnificadas/
 
 Caso a rede da instituição bloqueie o acesso ao FTP, baixe o ZIP manualmente e use a importação manual na aba **Atualizar** (ou `python run.py import ARQUIVO.zip`).
 
-## Screenshots
-
-Não há capturas no repositório.
-
-> 📌 Recomenda-se adicionar prints da **tela de consulta com filtros**, do **detalhe de um procedimento**, da **comparação entre competências** e de um **relatório gerencial**. Este é o projeto tecnicamente mais forte do portfólio — merece a melhor apresentação visual.
-
-## Melhorias Futuras
-
-- [ ] Suíte de testes automatizados (pytest) sobre o parser de layout e o ETL — o `make_fixture.py` já fornece a base.
-- [ ] Empacotar como imagem Docker, eliminando a dependência de Python local.
-- [ ] Expor a API REST publicamente documentada (OpenAPI/Swagger) para consumo por outros sistemas.
-- [ ] Agendamento automático da atualização mensal (Task Scheduler / cron), com notificação de nova competência.
-- [ ] Modo multiusuário com autenticação, caso a base seja disponibilizada em rede.
-- [ ] Cache de consultas frequentes em memória.
-- [ ] Adicionar `.env.example` e mover os parâmetros de `config.py` para variáveis de ambiente.
-- [ ] Publicar como executável standalone (PyInstaller) para os setores de faturamento.
-- [ ] Migração opcional para PostgreSQL em cenário de uso concorrente intenso.
-- [ ] Dashboard de evolução de valores por procedimento ao longo das competências.
 
 ## Autor
 
 **Paulo Emanuel Wenzel**
-
-- **LinkedIn:** _(inserir link)_
-- **GitHub:** _(inserir link)_
