@@ -1,0 +1,5 @@
+# SIGTAP Local - dependências
+Flask==3.0.3
+requests==2.32.3
+openpyxl==3.1.5        # exportação Excel (.xlsx)
+reportlab==4.2.2       # exportação PDF

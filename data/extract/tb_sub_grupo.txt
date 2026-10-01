@@ -1,0 +1,71 @@
+0401Pequenas cirurgias e cirurgias de pele, tecido subcutâneo e mucosa                                  202609
+0801Ações relacionadas ao estabelecimento                                                               202609
+0601Medicamentos de dispensação excepcional                                                             202609
+0201Coleta de material                                                                                  202609
+0101Ações coletivas/individuais em saúde                                                                202609
+0501Coleta e exames para fins de doação de orgãos, tecidos e células e de transplante                   202609
+0301Consultas / Atendimentos / Acompanhamentos                                                          202609
+0701Órteses, próteses e materiais especiais não relacionados ao ato cirúrgico                           202609
+0901Atenção em Oncologia                                                                                202609
+0102Vigilância em saúde                                                                                 202609
+0502Avaliação de morte encefálica                                                                       202609
+0602Medicamentos estratégicos                                                                           202609
+0302Fisioterapia                                                                                        202609
+0702Órteses, próteses e materiais especiais relacionados ao ato cirúrgico                               202609
+0802Ações relacionadas ao atendimento                                                                   202609
+0902Atenção em Cardiologia                                                                              202609
+0402Cirurgia de glândulas endócrinas                                                                    202609
+0202Diagnóstico em laboratório clínico                                                                  202609
+0403Cirurgia do sistema nervoso central e periférico                                                    202609
+0303Tratamentos clínicos (outras especialidades)                                                        202609
+0203Diagnóstico por anatomia patológica e citopatologia                                                 202609
+0903Atenção em Ortopedia                                                                                202609
+0803Autorização / regulação                                                                             202609
+0603Medicamentos de âmbito hospitalar e urgência                                                        202609
+0503Ações relacionadas à doação de orgãos e tecidos para transplante                                    202609
+0804Telessaúde                                                                                          202609
+0304Tratamento em oncologia                                                                             202609
+0404Cirurgia das vias aéreas superiores, da face, da cabeça e do pescoço                                202609
+0204Diagnóstico por radiologia                                                                          202609
+0504Processamento de tecidos para transplante                                                           202609
+0904Atenção em Otorrinolaringologia                                                                     202609
+0604Componente especializado da assistência farmacêutica                                                202609
+0305Tratamento em nefrologia                                                                            202609
+0505Transplante de orgãos, tecidos e células                                                            202609
+0405Cirurgia do aparelho da visão                                                                       202609
+0905Atenção em Oftalmologia                                                                             202609
+0205Diagnóstico por ultrasonografia                                                                     202609
+0605Assistência Farmacêutica em Oncologia                                                               202609
+0206Diagnóstico por tomografia                                                                          202609
+0406Cirurgia do aparelho circulatório                                                                   202609
+0906Atenção em Saúde Mulher                                                                             202609
+0306Hemoterapia                                                                                         202609
+0506Acompanhamento e intercorrências no pré e pós-transplante                                           202609
+0407Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal                                    202609
+0307Tratamentos odontológicos                                                                           202609
+0207Diagnóstico por ressonância magnética                                                               202609
+0907Atenção à Saúde Bucal                                                                               202609
+0308Tratamento de lesões, envenenamentos e outros, decorrentes de causas externas                       202609
+0208Diagnóstico por medicina nuclear in vivo                                                            202609
+0908Atenção em Infectologia                                                                             202609
+0408Cirurgia do sistema osteomuscular                                                                   202609
+0209Diagnóstico por endoscopia                                                                          202609
+0309Terapias especializadas                                                                             202609
+0409Cirurgia do aparelho geniturinário                                                                  202609
+0909Atenção em Nefrologia                                                                               202609
+0210Diagnóstico por radiologia intervencionista                                                         202609
+0410Cirurgia de mama                                                                                    202609
+0310Parto e nascimento                                                                                  202609
+0211Métodos diagnósticos em especialidades                                                              202609
+0411Cirurgia obstétrica                                                                                 202609
+0311Cuidados Paliativos                                                                                 202609
+0212Diagnóstico e procedimentos especiais em hemoterapia                                                202609
+0412Cirurgia torácica                                                                                   202609
+0413Cirurgia reparadora                                                                                 202609
+0213Diagnóstico em vigilância epidemiológica e ambiental                                                202609
+0214Diagnóstico por teste rápido                                                                        202609
+0414Bucomaxilofacial                                                                                    202609
+0415Outras cirurgias                                                                                    202609
+0416Cirurgia em oncologia                                                                               202609
+0417Anestesiologia                                                                                      202609
+0418Cirurgia em nefrologia                                                                              202609

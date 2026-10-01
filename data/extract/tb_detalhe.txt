@@ -1,0 +1,60 @@
+001Inclui valor da anestesia                                                                           202609
+003Admite longa permanência                                                                            202609
+004Admite permanência à maior                                                                          202609
+005Admite liberação de quantidade na AIH                                                               202609
+006CNRAC                                                                                               202609
+007Permanência por dia                                                                                 202609
+008Não permite mudança de procedimento                                                                 202609
+009Exige CPF/CNS                                                                                       202609
+011Permite alta direta de UTI                                                                          202609
+012Exige idade no BPA (Consolidado)                                                                    202609
+013Verifica habilitação de terceiro                                                                    202609
+014Admite APAC de Continuidade                                                                         202609
+015Admitido apenas em Hosp.Espec/Psiquiatria                                                           202609
+017Exige Informação da OPM                                                                             202609
+020Monitoramento do CEO                                                                                202609
+021Não Exige CBO                                                                                       202609
+022Exige registro na APAC de dados complementares                                                      202609
+023Registro no SISCOLO                                                                                 202609
+024Registro no SISPRENATAL                                                                             202609
+025Registro no SISMAMA                                                                                 202609
+026Registro de Procedimentos Secundário Compativel                                                     202609
+029Admite período maior para a apresentação                                                            202609
+033APAC com validade fixa de 03 competências                                                           202609
+034Não exige CPF/CNS                                                                                   202609
+036Exige Autorização                                                                                   202609
+037Exige CNPJ do Fornecedor                                                                            202609
+038Exige Serviço/Classificação                                                                         202609
+040Registro no SISCAN                                                                                  202609
+041APAC com validade fixa de 12 competências                                                           202609
+042Não Admite Liberação de Crítica de Idade                                                            202609
+043Exige registro de CID de causas associadas (Secundário)                                             202609
+044Cirurgias Eletivas                                                                                  202609
+045Diárias de Leitos Complementares                                                                    202609
+046Tratamento Ambulatorial de Doenças Crônicas                                                         202609
+047Autorização com limite máximo de 6 meses.                                                           202609
+048Exige CID                                                                                           202609
+049Permite Informação de Equipe Cirúrgica                                                              202609
+050Permite o Registro de Informações do CPF/CNS do(s) Recém-Nascido(s)                                 202609
+051Programa Mais Acesso a Especialistas - Componente Cirurgias Hospitalares                            202609
+052Programa Mais Acesso a Especialistas - Componente Cirurgias Ambulatoriais.                          202609
+053Programa Mais Acesso a Especialistas (PMAE)                                                         202609
+054APAC com validade fixa de 2 competências.                                                           202609
+055Exige data do resultado diagnóstico de Neoplasia                                                    202609
+056Exige procedimento de tomografia computadorizada                                                    202609
+057Exige procedimento de ressonância magnética                                                         202609
+058Obrigatório CPF                                                                                     202609
+059Componente Complementar - Modalidade 2                                                              202609
+060Componente Complementar - Modalidade 3                                                              202609
+061Exige procedimento de Mamografia ou Ultrassonografia Mamária Bilateral                              202609
+062Exige procedimento de Colposcopia ou de Biópsia com o Anatomopatológico                             202609
+063Exige procedimento de diagnóstico em oftalmologia                                                   202609
+064Exige procedimento diagnóstico e procedimento clínico-restaurador.                                  202609
+065Apoio Diagnóstico e Terapêutico por Imagem                                                          202609
+066APAC Onco Exclusiva com Autorização Prévia                                                          202609
+067Exige Procedimento de Punção Lombar e/ou Tomografia                                                 202609
+068Exige procedimentos dos subgrupos 02.03 e/ou 02.02                                                  202609
+069Exige Procedimentos dos Subgrupos 02.06 e/ou 02.09                                                  202609
+070Exige procedimento de tomografia e/ou biópsia                                                       202609
+071Exige procedimento reabilitador                                                                     202609
+072Exige procedimento de Videolaringoscopia ou Laringoscopia                                           202609

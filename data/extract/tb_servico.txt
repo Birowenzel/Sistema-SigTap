@@ -1,0 +1,75 @@
+100Serviço de Atenção a Saúde no Sistema Penitenciário                                                                     202609
+101Estratégia de Saúde da Família                                                                                          202609
+102Estratégias de Agentes Comunitário de Saúde                                                                             202609
+103Serviço de Atendimento Móvel de Urgências                                                                               202609
+104Regulação Assistêncial dos Serviços de Saúde                                                                            202609
+105Serviço de Atenção em Neurologia/ Neurocirurgia                                                                         202609
+106Serviço de Atenção a DST/HIV/AIDS                                                                                       202609
+107Atenção à Saúde Auditiva                                                                                                202609
+108Atenção a Saúde do Trabalhador                                                                                          202609
+109Serviço de Atenção a Saúde dos Adolecentes em Conflito com a Lei, em Regime de Internação e Internação Provisória       202609
+110Serviço de Atenção a Saúde Reprodutiva                                                                                  202609
+111Serviço de Atenção ao Paciente com Tuberculose                                                                          202609
+112Serviço de Atenção ao Pré-Natal e Nascimento                                                                            202609
+113Serviço de Atenção Domiciliar                                                                                           202609
+114Serviço de Atenção em Saúde Bucal                                                                                       202609
+115Serviço de Atenção Psicossocial                                                                                         202609
+116Serviço de Atenção Cardiovascular/Cardiologia                                                                           202609
+117Serviço de Cirurgia Reparadora                                                                                          202609
+118Serviço de Cirurgia Torácica                                                                                            202609
+119Serviço de Controle de Tabagismo                                                                                        202609
+120Serviço de Diagnóstico por Anatomia Patológica e/ou Citopatologia                                                       202609
+121Diagnóstico por Imagem                                                                                                  202609
+122Serviço de Diagnóstico por Métodos Gráficos/Dinâmicos                                                                   202609
+123Serviço de Dispensação de Órteses, Próteses e Materiais Especiais                                                       202609
+124Serviço de Endocrinologia                                                                                               202609
+125Assistência Farmacêutica                                                                                                202609
+126Serviço de Fisioterapia                                                                                                 202609
+127Serviço de Atenção à Obesidade                                                                                          202609
+128Serviço de Hemoterapia                                                                                                  202609
+129Servico de Laboratório de Histocompatibilidade                                                                          202609
+130Atenção à Doença Renal Crônica                                                                                          202609
+131Serviço de Oftalmologia                                                                                                 202609
+132Serviço de Oncologia                                                                                                    202609
+133Serviço de Pneumologia                                                                                                  202609
+134Serviço de Práticas Integrativas e Complementares                                                                       202609
+135Serviço de Reabilitação                                                                                                 202609
+136Serviço de Suporte Nutricional                                                                                          202609
+137Serviço de Telemedicina                                                                                                 202609
+138Serviço de Traumato-Ortopedia                                                                                           202609
+139Serviço de Triagem Neonatal                                                                                             202609
+140Serviço de Urgência e Emergência                                                                                        202609
+141Serviço de Vigilância em Saúde                                                                                          202609
+142Serviço de Endoscopia                                                                                                   202609
+143Serviço Móvel de Urgência (exceto SAMU)                                                                                 202609
+144Serviço Posto de Coleta de Materiais Biológicos                                                                         202609
+145Serviço de Diagnóstico por Laboratório Clínico                                                                          202609
+146Serviço de Videolaparoscopia                                                                                            202609
+147Serviço de Apoio a Saúde da Família                                                                                     202609
+148Hospital-Dia                                                                                                            202609
+149Transplante                                                                                                             202609
+150Cirurgia Vascular                                                                                                       202609
+151Medicina Nuclear                                                                                                        202609
+152Atenção à Saúde da População Indígena                                                                                   202609
+153Atenção Especializada no Processo Transexualizador                                                                      202609
+154Serviço de Banco de Tecidos                                                                                             202609
+155Serviço de Traumatologia  Ortopedia                                                                                     202609
+157Serviço de Laboratorio de Protese Dentaria                                                                              202609
+158Serviço de Atenção Integral em Hanseniase                                                                               202609
+159Atenção Primária                                                                                                        202609
+160Teleconsultoria                                                                                                         202609
+161Consultório na Rua                                                                                                      202609
+162Serviço de Terapia Intensiva                                                                                            202609
+163Serviço de Cuidados Intermediários                                                                                      202609
+164Serviço de Órteses,Próteses e Materiais Especiais em Reabilitação                                                       202609
+165Atenção às Pessoas em Situação de Violência Sexual                                                                      202609
+166Serviço de  Análise Laboratorial  de Produtos Sujeitos á  Vigilância Sanitária                                          202609
+167Atendimento Itinerante de Asistência e Ensino em Saúde                                                                  202609
+168Atenção Às Pessoas com Doenças Raras                                                                                    202609
+169Serviço de Atenção em Urologia                                                                                          202609
+170Comissões e Comitês                                                                                                     202609
+171Cuidados Paliativos                                                                                                     202609
+172Atenção ao Luto Materno e Parental                                                                                      202609
+173Logística de Imunobiológicos                                                                                            202609
+174Imunização                                                                                                              202609
+175Cirúrgia Robótica                                                                                                       202609
