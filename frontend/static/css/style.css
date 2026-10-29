@@ -215,10 +215,11 @@ code { background: var(--surface-2); padding: 1px 6px; border-radius: 5px;
 
 /* ---------------- Modal ---------------- */
 .modal-backdrop { position: fixed; inset: 0; background: rgba(8,14,24,.55);
-  display: flex; align-items: flex-start; justify-content: center; z-index: 50; padding: 40px 16px; overflow: auto; }
-.modal { background: var(--surface); border-radius: 14px; width: min(920px,100%);
-  box-shadow: 0 20px 60px rgba(0,0,0,.35); position: relative; padding: 24px; }
-.modal-close { position: absolute; top: 14px; right: 14px; border: none; background: var(--surface-2);
+  display: flex; align-items: flex-start; justify-content: center; z-index: 50; padding: 28px 20px; overflow: auto; }
+.modal { background: var(--surface); border-radius: 14px; width: min(1500px,100%);
+  box-shadow: 0 20px 60px rgba(0,0,0,.35); position: relative; padding: 24px;
+  max-height: calc(100vh - 56px); overflow: auto; }
+.modal-close { position: sticky; top: 0; float: right; z-index: 2; border: none; background: var(--surface-2);
   color: var(--text); width: 34px; height: 34px; border-radius: 50%; font-size: 16px; }
 .modal h2 { margin-top: 0; }
 .badges { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
@@ -236,6 +237,11 @@ code { background: var(--surface-2); padding: 1px 6px; border-radius: 5px;
 .info-table { width: 100%; border-collapse: collapse; margin: 8px 0 18px; }
 .info-table td { padding: 6px 10px; border-bottom: 1px solid var(--border); vertical-align: top; }
 .info-table td:first-child { color: var(--muted); width: 34%; }
+@media (min-width: 1100px) {
+  .info-table { display: grid; grid-template-columns: 1fr 1fr; column-gap: 28px; }
+  .info-table tbody { display: contents; }
+  .info-table tr { display: grid; grid-template-columns: 34% 1fr; }
+}
 .section h3 { margin: 20px 0 8px; font-size: 14px; color: var(--accent); }
 .section table { font-size: 12px; }
 .section th { position: static; }

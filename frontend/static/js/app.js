@@ -257,9 +257,13 @@ async function openDetail(code) {
   ].filter(([, v]) => v !== null && v !== undefined && v !== "")
    .map(([k, v]) => `<tr><td>${L[k] || k}</td><td>${v}</td></tr>`).join("");
 
+  // colunas "<campo>__nome" vêm do enriquecimento das tabelas de domínio
+  const colLabel = (c) => L[c] ||
+    (c.endsWith("__nome") ? `${L[c.slice(0, -6)] || c.slice(0, -6)} (nome)` : c);
+
   const sections = d.sections.map(sec => {
     const cols = sec.columns.filter(c => c !== "co_procedimento");
-    const head = cols.map(c => `<th>${c}</th>`).join("");
+    const head = cols.map(c => `<th>${colLabel(c)}</th>`).join("");
     const body = sec.rows.map(row =>
       "<tr>" + cols.map(c => `<td>${row[c] ?? ""}</td>`).join("") + "</tr>").join("");
     return `<div class="section"><h3>${sec.title} (${sec.rows.length})</h3>

@@ -65,6 +65,19 @@ COLUMN_LABELS = {
     "instrumentos_registro": "Instrumento(s) de Registro",
     "modalidades": "Modalidade(s)",
     "dt_competencia": "Competência",
+    # Compatibilidades (materiais/OPME que entram no procedimento)
+    "co_procedimento_compativel": "Código",
+    "co_procedimento_principal": "Código",
+    "qt_permitida": "Qtd. permitida",
+    "no_registro_principal": "Registro do principal",
+    "no_registro_compativel": "Registro do compatível",
+    "tp_compatibilidade": "Tipo de compatibilidade",
+    "co_cid": "CID",
+    "co_ocupacao": "CBO",
+    "co_servico": "Cód. Serviço",
+    "co_classificacao": "Cód. Classificação",
+    "co_habilitacao": "Cód. Habilitação",
+    "co_detalhe": "Cód. Detalhe",
 }
 
 # --------------------------------------------------------------------------- #
@@ -102,6 +115,8 @@ DETAIL_SECTIONS = [
     ("rl_procedimento_habilitacao", "Habilitações"),
     ("rl_procedimento_registro", "Instrumentos de Registro"),
     ("rl_procedimento_modalidade", "Modalidades"),
+    # Ligada por CO_PROCEDIMENTO_PRINCIPAL: tratada à parte em
+    # detail_service, que separa os materiais/OPME (grupo 07).
     ("rl_procedimento_compativel", "Compatibilidades"),
     ("rl_procedimento_incremento", "Incrementos"),
     ("rl_procedimento_regra_cond", "Regras Condicionadas"),
